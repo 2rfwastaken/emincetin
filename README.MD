@@ -26,5 +26,9 @@
 ### 1. Depoyu Klonla
 
 ```bash
-git clone https://github.com/kullaniciadi/copvex-bot.git
+git clone https://github.com/2rfwastaken/emincetin.git
 cd copvex-bot
+
+bu arada .env olusturup icine 
+TOKEN=bot-tokenin-buraya
+CLIENT_ID=bot-client-id
